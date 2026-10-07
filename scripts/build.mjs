@@ -1,0 +1,10 @@
+import {cp,mkdir,rm} from 'node:fs/promises';
+import {execFileSync} from 'node:child_process';
+import {fileURLToPath} from 'node:url';
+import {resolve} from 'node:path';
+const root=fileURLToPath(new URL('../',import.meta.url));
+execFileSync(process.execPath,[resolve(root,'scripts/check.mjs')],{cwd:root,stdio:'inherit'});
+await rm(resolve(root,'dist'),{recursive:true,force:true});
+await mkdir(resolve(root,'dist'),{recursive:true});
+await cp(resolve(root,'public'),resolve(root,'dist'),{recursive:true});
+console.log('Build listo: archivos estáticos en dist/; servidor dinámico en api/index.mjs.');

@@ -1,0 +1,17 @@
+{
+  "name": "heriberto-trevino-web",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Sitio documental de Heriberto Treviño: obras, programas, evolución de Juárez, testimonios y actividad legislativa.",
+  "type": "module",
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "dev": "node --watch scripts/dev.mjs",
+    "start": "node scripts/dev.mjs",
+    "check": "node scripts/check.mjs",
+    "test": "node --test",
+    "build": "node scripts/build.mjs"
+  }
+}

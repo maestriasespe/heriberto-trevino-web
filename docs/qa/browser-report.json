@@ -1,0 +1,138 @@
+{
+  "method": "HTML obtenido del servidor local y renderizado en about:blank sin navegar; se respeta la política de red del navegador. No prueba Supabase real.",
+  "pages": [
+    {
+      "path": "/",
+      "width": 1440,
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "path": "/obras",
+      "width": 1440,
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "path": "/programas-sociales",
+      "width": 1440,
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "path": "/evolucion-de-juarez",
+      "width": 1440,
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "path": "/testimonios",
+      "width": 1440,
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "path": "/logros-legislativos",
+      "width": 1440,
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "path": "/obras/vista-de-obras",
+      "width": 1440,
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "path": "/evolucion-de-juarez/vista-de-evolucion-de-juarez",
+      "width": 1440,
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "path": "/admin",
+      "width": 1440,
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "path": "/criterios",
+      "width": 1440,
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "path": "/privacidad",
+      "width": 1440,
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "path": "/",
+      "width": 390,
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "path": "/obras",
+      "width": 390,
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "path": "/programas-sociales",
+      "width": 390,
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "path": "/evolucion-de-juarez",
+      "width": 390,
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "path": "/testimonios",
+      "width": 390,
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "path": "/logros-legislativos",
+      "width": 390,
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "path": "/obras/vista-de-obras",
+      "width": 390,
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "path": "/evolucion-de-juarez/vista-de-evolucion-de-juarez",
+      "width": 390,
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "path": "/admin",
+      "width": 390,
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "path": "/criterios",
+      "width": 390,
+      "status": 200,
+      "overflow": false
+    },
+    {
+      "path": "/privacidad",
+      "width": 390,
+      "status": 200,
+      "overflow": false
+    }
+  ],
+  "page_errors": []
+}

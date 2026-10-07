@@ -1,0 +1,16 @@
+{
+  "scope": "Prueba de interfaz con respuestas simuladas, NO una conexión real a Supabase.",
+  "ok": true,
+  "checks": [
+    "iniciar sesión",
+    "crear ficha",
+    "añadir fuente",
+    "guardar borrador",
+    "publicar ficha revisada",
+    "retirar publicación",
+    "abrir ajustes",
+    "cerrar sesión"
+  ],
+  "page_errors": [],
+  "request_count": 13
+}
